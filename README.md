@@ -1,6 +1,12 @@
 # KarrotCopyPrj
 당근마켓카피 프로젝트 AWS 배포 버전 입니다. <br>
 ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
+Demo - http://43.201.65.22:8080/homePage
+
+사용자 계정 test/1234
+
+관리자 계정 admin/1234
+
    <div align=center> 
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EB%A9%94%EC%9D%B81.png?raw=true"> 
    <br>
