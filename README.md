@@ -27,7 +27,7 @@ ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 ### 📚 담당역할
  - 상품 페이지-상품 관리(기여도 100%), DB설계 (기여도 60%), Slack, Git 등 협업 환경 조성 (기여도 90%),
 
-프로젝트 배포 (기여도 100%), 웹소켓 이용한 채팅기능(기여도 70%) 
+ - 프로젝트 배포 (기여도 100%), 웹소켓 이용한 채팅기능(기여도 70%) 
 
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EB%A9%94%EC%9D%B81.png?raw=true"> 
    <br>
