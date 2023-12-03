@@ -7,6 +7,8 @@ Demo - http://43.201.65.22:8080/homePage
 
 > 동네인증 기능은 local환경에선 동작하며 카카오 Map Api를 활용했기 때문에 https:// 환경 배포 후에 동작 가능 예정입니다.
 <br><br>
+
+
 ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 <br><br>
 
