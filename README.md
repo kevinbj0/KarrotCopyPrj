@@ -7,7 +7,7 @@ ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png?raw=true">
    <br><br>
    </div>
-   #2가지 방식으로 배포
+   <h2>2가지 방식으로 배포</h2>
    <h3>배포 아키텍처1</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br><br>
