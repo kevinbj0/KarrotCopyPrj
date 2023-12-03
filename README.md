@@ -8,7 +8,7 @@ Demo - http://43.201.65.22:8080/homePage
 
 관리자 계정 admin/1234
 
-> 동네인증 기능은 local환경에선 동작하며 카카오 Map Api를 활용했기 때문에 https 환경으로 배포 후에 동작 가능 예정입니다.
+> 동네인증 기능은 local환경에선 동작하며 카카오 Map Api를 활용했기 때문에 https 환경 배포 후에 동작 가능 예정입니다.
 
    <div align=center> 
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EB%A9%94%EC%9D%B81.png?raw=true"> 
