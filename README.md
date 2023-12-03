@@ -17,7 +17,8 @@ ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 
 ## 🖥️ 프로젝트 소개
 모바일 환경의 당근마켓의 장점을 웹환경에 적용시킨 프로젝트 입니다.
-Spring+Mybatis로 구현, 배포를 진행하였습니다. 
+
+Rest Api를 기반으로 Spring+Mybatis로 구현, 배포를 진행하였습니다. 
 <br><br>
 
 ## 🕰️ 개발 기간
