@@ -32,16 +32,17 @@ MEGA BOX를 참고하여 만든 영화 예매 사이트입니다.
 - **Framework** : Springboot(2.x)
 - **Database** : Oracle DB(11xe)
 - **ORM** : Mybatis
+  <br><br>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EB%A9%94%EC%9D%B81.png?raw=true"> 
    <br>
    <h2>기술스택</h2>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png?raw=true">
    <br><br>
    <h2>아키텍처 (2가지 방식으로 배포) </h2>
-   <h3>아키텍처1</h3>
+   <h3>아키텍처1(EC2)</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br>
-   <h3>아키텍처2</h3>
+   <h3>아키텍처2(ElasticBeansTalk</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%952.png?raw=true"> 
    <br>
    
