@@ -1,5 +1,5 @@
 # KarrotCopyPrj
-당근마켓카피 프로젝트 AWS 배포 버전 입니다. <br>
+당근마켓카피 프로젝트 AWS 배포 버전 입니다. <br><br>
 ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 
 Demo - http://43.201.65.22:8080/homePage
