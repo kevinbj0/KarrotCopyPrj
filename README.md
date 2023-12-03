@@ -1,9 +1,6 @@
 # SecondHands
 당근마켓의 웹버전을 Spring+Mybatis로 구현, 배포까지 진행하였습니다. 
 
-ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
-<br><br>
-
 Demo - http://43.201.65.22:8080/homePage
 
 사용자 계정 test/1234
@@ -11,6 +8,12 @@ Demo - http://43.201.65.22:8080/homePage
 관리자 계정 admin/1234
 
 > 동네인증 기능은 local환경에선 동작하며 카카오 Map Api를 활용했기 때문에 https:// 환경 배포 후에 동작 가능 예정입니다.
+
+<br><br>
+
+
+
+ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 
 
 
