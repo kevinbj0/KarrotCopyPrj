@@ -12,7 +12,6 @@ Demo - http://43.201.65.22:8080/homePage
 
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EB%A9%94%EC%9D%B81.png?raw=true"> 
    <br>
-   ##기술스택
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png?raw=true">
    <br><br>
    <h2>2가지 방식으로 배포</h2>
