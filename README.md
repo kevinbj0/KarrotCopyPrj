@@ -8,10 +8,10 @@ ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
    <br><br>
    </div>
    <h2>2가지 방식으로 배포</h2>
-   <h3>배포 아키텍처1</h3>
+   <h3>아키텍처1</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br><br>
-   <h3>배포 아키텍처2</h3>
+   <h3>아키텍처2</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%952.png?raw=true"> 
    <br>
    
