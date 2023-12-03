@@ -1,7 +1,7 @@
 # SecondHands
 당근마켓의 웹버전을 Spring+Mybatis로 구현, 배포까지 진행하였습니다. 
-
-ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009<br><br>
+ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
+<br><br>
 
 Demo - http://43.201.65.22:8080/homePage
 
