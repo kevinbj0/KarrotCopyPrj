@@ -17,7 +17,7 @@ Demo - http://43.201.65.22:8080/homePage
    <h2>2가지 방식으로 배포</h2>
    <h3>아키텍처1</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
-   <br><br>
+   <br>
    <h3>아키텍처2</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%952.png?raw=true"> 
    <br>
