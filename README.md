@@ -1,4 +1,6 @@
 # SecondHands
+배포한 홈페이지
+
 Demo - http://43.201.65.22:8080/homePage
 
 사용자 계정 test/1234
