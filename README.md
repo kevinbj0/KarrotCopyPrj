@@ -10,7 +10,7 @@ Demo - http://43.201.65.22:8080/homePage
 
 <br>
 
-
+담당부분 개발명세서 - https://www.notion.so/SecondHands_-_-7dd48027f74049b9a0924787fbfa16ca
 ER Diagram - https://dbdiagram.io/d/653b74c9ffbf5169f092c009
 <br><br>
 
