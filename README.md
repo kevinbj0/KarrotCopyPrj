@@ -1,5 +1,5 @@
 # SecondHands
-배포한 홈페이지
+홈페이지 배포주소
 
 Demo - http://43.201.65.22:8080/homePage
 
