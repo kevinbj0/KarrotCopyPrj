@@ -39,10 +39,10 @@ Rest Api를 기반으로 Spring+Mybatis로 구현, 배포를 진행하였습니�
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png?raw=true">
    <br><br>
    <h2>아키텍처 (Oracle, MySQL) </h2>
-   <h3>방법2 아키텍처 (Elastic Beanstalk)</h3>
+   <h3>아키텍처 (Oracle)</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%952.png?raw=true"> 
    <br>
-   <h3>아키텍처 (EC2) - 오라클의 비용적 문제로 새로 구성</h3>
+   <h3>아키텍처 (MySQL) - 오라클의 비용적 문제로 새로 구성</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br>
 
