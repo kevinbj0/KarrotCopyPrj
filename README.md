@@ -39,10 +39,10 @@ Rest Api를 기반으로 Spring+Mybatis로 구현, 배포를 진행하였습니�
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%8B%B9%EA%B7%BC%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.png?raw=true">
    <br><br>
    <h2>아키텍처 (2가지 방식으로 배포) </h2>
-   <h3>아키텍처1 (EC2)</h3>
+   <h3>방법1 아키텍처1 (EC2)</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br>
-   <h3>아키텍처2 (Elastic Beanstalk)</h3>
+   <h3>방법2 아키텍처2 (Elastic Beanstalk)</h3>
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%952.png?raw=true"> 
    <br>
    
