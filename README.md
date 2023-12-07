@@ -46,7 +46,8 @@ Rest Api를 기반으로 Spring+Mybatis로 구현, 배포를 진행하였습니�
    <img src="https://github.com/kevinbj0/image/blob/main/%EB%B0%A9%EB%B2%951.png?raw=true"> 
    <br>
 
-  <h2>1207 업데이트 </h2>
+ <br>
+  <h2>1207_업데이트 </h2>
     <img src="https://github.com/kevinbj0/image/blob/main/1207%EB%AC%B8%EC%9D%98%EC%82%AC%ED%95%AD.png?raw=true"> 
    <br>
     <img src="https://github.com/kevinbj0/image/blob/main/1207%EB%8C%93%EA%B8%80.png?raw=true"> 
