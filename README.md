@@ -1,7 +1,7 @@
 # SecondHands
 홈페이지 배포주소
 
-Demo - http://43.201.65.22:8080/homePage
+Demo -  http://13.124.253.199:8080/homePage?
 
 사용자 계정 test/1234
 
